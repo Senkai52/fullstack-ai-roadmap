@@ -1,0 +1,18 @@
+# 📋 Fullstack AI Developer Kanban – 6 Monate
+
+## 🟢 To Do
+- [ ] OpenAI API ausprobieren (Monat 1)
+- [ ] LangChain Quickstart Tutorial durcharbeiten
+- [ ] Projekt 1 starten: AI Doc Chatbot mit FastAPI
+- [ ] README-Dokumentation für erstes Projekt schreiben
+- [ ] FAISS Embedding-Workflow verstehen
+
+## 🟡 In Progress
+- [ ] Kurs: Prompt Engineering (DeepLearning.AI)
+- [ ] PDF-Parsing und Vektor-Datenbank-Integration testen
+- [ ] GitHub Repo strukturieren mit Projekten + Resources
+
+## 🔵 Done
+- [ ] Python + FastAPI Dev-Umgebung einrichten
+- [ ] Lernziele für 6 Monate definiert
+- [ ] Roadmap erstellt
